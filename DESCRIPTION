@@ -1,0 +1,19 @@
+Package: allmaps
+Title: @allmaps/maplibre plugin for mapgl
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Mike", "O'Brien", , "mike@obrien.page", role = c("aut", "cre")),
+    person("Bert", "Spaan", , "hello@bertspaan.nl", role = c("ctb", "cph"),
+        comment = "@allmaps/maplibre package"),
+    person("Manuel Claeys", "Bouuaert", , "manuel.claeys.b@gmail.com",
+        role = c("ctb", "cph"), comment = "@allmaps/maplibre package")
+    )
+Description: Wraps the allmaps/maplibre plugin for use in the mapgl R package.
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: 
+    htmltools,
+    htmlwidgets,
+    mapgl
