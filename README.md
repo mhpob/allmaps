@@ -7,11 +7,10 @@
 
 <!-- badges: end -->
 
-The goal of allmaps is to provide the
+The goal of this (very experimental)package is to provide the
 [@allmaps/maplibre](https://allmaps.org/docs/packages/maplibre) plugin
-to allow the use of georeferenced maps from
-[Allmaps](https://allmaps.org/) to the [mapgl R
-package](https://walker-data.com/mapgl/index.html).
+to the [mapgl R package](https://walker-data.com/mapgl/index.html) in
+order to use georeferenced maps from [Allmaps](https://allmaps.org/).
 
 ## Installation
 
